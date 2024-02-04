@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Array of branch names
-branches=("branch1" "branch2" "branch3" "branch4" "branch5")
+branches=("Branch-1" "Branch-2" "Branch-3" "Branch-4" "Branch-5")
 
 # Loop through each branch
 for branch in "${branches[@]}"
